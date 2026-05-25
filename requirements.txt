@@ -1,0 +1,6 @@
+Install the following libraries :
+streamlit
+prophet
+yfinance
+plotly
+pandas
